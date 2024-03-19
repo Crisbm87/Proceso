@@ -19,3 +19,4 @@ if "edad" in informacion_personal:
 print("Información personal:")
 for key in informacion_personal:
     print(f"{key}: {informacion_personal[key]}")
+
